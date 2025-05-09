@@ -28,8 +28,8 @@ datetime, os, playsound, and more
 🖥️ Setup Instructions
 Clone the repository:
 
-git clone https://github.com/barbaric7/jarvis-python-voice-assistant.git
-cd jarvis-python-voice-assistant
+git clone https://github.com/barbaric7/Jarvis-python-voice-assistant.git
+cd Jarvis-python-voice-assistant
 
 Install required packages:
 
