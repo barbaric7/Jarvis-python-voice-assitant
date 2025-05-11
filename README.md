@@ -12,6 +12,8 @@ JARVIS is a Python-based voice assistant bot that can perform a variety of perso
 
 ✅ Handle various simple day-to-day operations
 
+🤖 Ask random question & get response from gpt-3.5 turbo
+
 🛠️ Built With
 Python
 
@@ -50,7 +52,7 @@ jarvis-python-voice-assistant/
 
     
 🧠 How It Works
-JARVIS listens to your voice using the microphone, interprets the command using speech recognition, and then performs the mapped task. The core logic is written entirely in Python and can be extended with new features and commands easily.
+JARVIS listens to your voice using the microphone, interprets the command using speech recognition, and then performs the mapped task. The core logic is written entirely in Python and has an integration with gpt-3.5-turbo model to give a response to random commands which aren't coded in script.
 
 🗣️ Example Voice Commands
 "Jarvis , Play music"
@@ -69,3 +71,5 @@ Make sure your microphone is connected and working.
 Edit the script to customize file paths and task behavior.
 
 News API key may be required depending on the service used.
+
+Use OpeniAi API 3.5-turbo keys.
